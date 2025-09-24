@@ -100,20 +100,11 @@ Other
 - LLM-based reward shaping automated parts of the reward function design, making agents more adaptable with less manual tuning.  
 - Demonstrated meaningful performance gains across multiple ViZDoom scenarios (e.g. “Defend the Center,” “Deadly Corridor”).  
 
----
-
-## 💡 Potential Extensions
-
-- Port RL pipelines to **real-world robotics simulators** (e.g., Gazebo, PyBullet)  
-- Integrate **sensor-based inputs** (e.g., lidar, depth cameras) to move toward real robots  
-- Add **MLOps / deployment pipelines** (Docker, CI/CD)  
-- Expand reward shaping to **multi-agent environments**
 
 ---
 
 ## 📄 License & Attribution
 
-This project is released under **MIT License** (or whichever you prefer).  
 Original ViZDoom environment and dependencies by the **Farama Foundation**.  
 
 ---
@@ -121,6 +112,6 @@ Original ViZDoom environment and dependencies by the **Farama Foundation**.
 ## 📬 Contact & Further Work
 
 - GitHub: [Dimitris-Anagnostopoulos](https://github.com/Dimitris-Anagnostopoulos)  
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/dimitris-anagnostopoulos-396361241/)  
+- LinkedIn: [Dimitris Anagnostopoulos](https://www.linkedin.com/in/dimitris-anagnostopoulos-396361241/)  
 
 Feel free to explore the code, run experiments, or reach out with suggestions or questions.  
